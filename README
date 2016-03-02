@@ -1,0 +1,13 @@
+1.The way to compile the source code and install on your PC
+	- javac DLEditor.java
+2.The function of the DLEditor
+	- support multi file edited in the meanwhile 
+	- It can make the code highlight
+	- It requires few Occupation of resources
+	- It supply the function to compile and run, show results to users, make the debugging easier
+	- More function added soon.....
+3.The requirement:
+	- JRE on your PC
+4.About me
+	- tjullin@foxmail.com
+	- http://blog.csdn.net/qq_24451605
